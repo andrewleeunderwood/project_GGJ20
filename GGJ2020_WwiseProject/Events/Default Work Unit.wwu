@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" SchemaVersion="94">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Environment_Loop" ID="{0B53CF83-8053-44BD-BDC6-8AE803528C3D}">
+					<ChildrenList>
+						<Action Name="" ID="{44BD0DB6-17F0-4E01-8267-492391B4A7CC}" ShortID="234495524">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Environment_Ambi_1" ID="{D1C69171-F08D-48B4-9949-035066E685D0}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Watercreek_Loop" ID="{BD17ACA2-AE7C-4622-A4AC-BA5D280CA73D}">
+					<ChildrenList>
+						<Action Name="" ID="{73437119-7218-4C59-B1AF-E4244F6EF777}" ShortID="434000418">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_WaterCreek_Mono_1" ID="{396F0D18-F930-4169-9B75-DDF90AC8760B}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Birds_One" ID="{65AECB4E-9BBF-471F-98B5-36146BC59FB5}">
+					<ChildrenList>
+						<Action Name="" ID="{EF7C3F2B-CF0B-4FED-B667-5505E24DA0DC}" ShortID="569510415">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Birds" ID="{B06758FD-ABDC-42D5-96A1-2BF24E7294B9}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Break" ID="{70CF3AA2-11DA-48AB-B4AF-341231F0C031}">
+					<ChildrenList>
+						<Action Name="" ID="{DB6E4EFF-B947-4C87-89B4-CD8B3F0B6A54}" ShortID="495576361">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Breaks" ID="{2BDDB43C-50EB-4D58-8C62-4E9277A59013}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Snap" ID="{F579F838-470C-4C18-882F-69E7BCCD7A1C}">
+					<ChildrenList>
+						<Action Name="" ID="{C2401240-3146-4EB2-9718-ADDA2B74CBFA}" ShortID="908381913">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Snap" ID="{593BA2F8-C32A-469A-9D83-20A4320B1449}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Logo" ID="{9EC501D6-9FC0-46AB-ACC7-46CA5BBE0A03}">
+					<ChildrenList>
+						<Action Name="" ID="{DAFA0B54-3EFC-4B61-9C6A-63CB06B6A202}" ShortID="834382238">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Logo" ID="{349EAC68-8134-42F8-9824-FF158BD047F9}" WorkUnitID="{6F8BDBBE-DC90-4059-8381-C3D897A63806}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Music_Main" ID="{4212E6E1-4950-45A5-9064-88165A57F32D}">
+					<ChildrenList>
+						<Action Name="" ID="{CA887444-555B-431D-8349-43743DD55BD4}" ShortID="474815237">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Normal" ID="{ACA59EE9-57C7-4508-A563-40EAC0A59080}" WorkUnitID="{6F8BDBBE-DC90-4059-8381-C3D897A63806}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ending_Gong" ID="{B79596B0-01D8-4862-AA90-BBE874CB7555}">
+					<ChildrenList>
+						<Action Name="" ID="{BFC526AE-7113-49D6-91A5-CAC9A032F9F9}" ShortID="352378062">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="ChineseGongHit_BW_24944" ID="{F37EA75E-FBB4-4CDE-B8C0-1F93F345610E}" WorkUnitID="{D183003F-52EE-462D-A9D0-528C4404AEF9}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

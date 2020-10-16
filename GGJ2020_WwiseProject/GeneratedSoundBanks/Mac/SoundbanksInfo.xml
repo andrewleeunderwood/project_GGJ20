@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>/Users/david/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Unity Projects/GGJ2020/GGJ2020_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/david/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Unity Projects/GGJ2020/GGJ2020_WwiseProject/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/david/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Unity Projects/GGJ2020/GGJ2020_WwiseProject/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/david/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/y:/Unity Projects/GGJ2020/GGJ2020_WwiseProject/GeneratedSoundBanks/Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="384875954" Name="Birds_One" ObjectPath="\Events\Default Work Unit\Birds_One" MaxAttenuation="100.000000" DurationType="OneShot" DurationMin="24.942553" DurationMax="26.751905"/>
+				<Event Id="941442534" Name="Break" ObjectPath="\Events\Default Work Unit\Break" DurationType="OneShot" DurationMin="1.386619" DurationMax="2.047111"/>
+				<Event Id="2136767108" Name="Ending_Gong" ObjectPath="\Events\Default Work Unit\Ending_Gong" DurationType="OneShot" DurationMin="25.829334" DurationMax="25.829334"/>
+				<Event Id="4090283673" Name="Environment_Loop" ObjectPath="\Events\Default Work Unit\Environment_Loop" MaxAttenuation="100.000000" DurationType="Infinite"/>
+				<Event Id="4071920008" Name="Music_Logo" ObjectPath="\Events\Default Work Unit\Music_Logo" DurationType="OneShot" DurationMin="14.142855" DurationMax="14.142855"/>
+				<Event Id="1615767906" Name="Music_Main" ObjectPath="\Events\Default Work Unit\Music_Main" DurationType="OneShot" DurationMin="163.214264" DurationMax="173.499969"/>
+				<Event Id="1022785501" Name="Snap" ObjectPath="\Events\Default Work Unit\Snap" DurationType="OneShot" DurationMin="0.059429" DurationMax="0.227240"/>
+				<Event Id="942597579" Name="Watercreek_Loop" ObjectPath="\Events\Default Work Unit\Watercreek_Loop" MaxAttenuation="100.000000" DurationType="Infinite"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="29666668" Language="SFX">
+					<ShortName>STEMS\Normal 2\MUS_Harp_70bpm_26M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 2/MUS_Harp_70bpm_26M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="34520092" Language="SFX">
+					<ShortName>Exports\Breaks\IMP_Break_2.wav</ShortName>
+					<Path>SFX/Exports/Breaks/IMP_Break_2_6296B0F9.wem</Path>
+				</File>
+				<File Id="97042197" Language="SFX">
+					<ShortName>Exports\Snap together\IMP_Snap_1.wav</ShortName>
+					<Path>SFX/Exports/Snap together/IMP_Snap_1_4434AF12.wem</Path>
+				</File>
+				<File Id="113787959" Language="SFX">
+					<ShortName>STEMS\Normal 2\MUS_Drone_70bpm_22M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 2/MUS_Drone_70bpm_22M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="133068811" Language="SFX">
+					<ShortName>STEMS\Bridge\MUS_Harp_70bpm_2M.wav</ShortName>
+					<Path>SFX/STEMS/Bridge/MUS_Harp_70bpm_2M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="173147514" Language="SFX">
+					<ShortName>STEMS\Normal 2\MUS_Strings_70bpm_26M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 2/MUS_Strings_70bpm_26M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="299600158" Language="SFX">
+					<ShortName>ChineseGongHit_BW.24944.wav</ShortName>
+					<Path>SFX/ChineseGongHit_BW.24944_6296B0F9.wem</Path>
+				</File>
+				<File Id="321525491" Language="SFX">
+					<ShortName>Exports\Snap together\IMP_Snap_2.wav</ShortName>
+					<Path>SFX/Exports/Snap together/IMP_Snap_2_6296B0F9.wem</Path>
+				</File>
+				<File Id="332462503" Language="SFX">
+					<ShortName>STEMS\Logo\MUS_ChineseKit_70bpm_4M.wav</ShortName>
+					<Path>SFX/STEMS/Logo/MUS_ChineseKit_70bpm_4M_D79FB2B7.wem</Path>
+				</File>
+				<File Id="342459458" Language="SFX">
+					<ShortName>STEMS\Bridge\MUS_Strings_70bpm_2M.wav</ShortName>
+					<Path>SFX/STEMS/Bridge/MUS_Strings_70bpm_2M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="360750400" Language="SFX">
+					<ShortName>Exports\Ambiances\AMB_WaterCreek_Mono_1.wav</ShortName>
+					<Path>SFX/Exports/Ambiances/AMB_WaterCreek_Mono_1_9B96ECC7.wem</Path>
+				</File>
+				<File Id="365056350" Language="SFX">
+					<ShortName>AMB_Environment_Ambi_1.wav</ShortName>
+					<Path>SFX/AMB_Environment_Ambi_1_D19588E9.wem</Path>
+				</File>
+				<File Id="466418540" Language="SFX">
+					<ShortName>STEMS\Normal 2\MUS_Triangle_70bpm_1M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 2/MUS_Triangle_70bpm_1M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="494251410" Language="SFX">
+					<ShortName>STEMS\Normal 1\MUS_Harp_70bpm_8M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 1/MUS_Harp_70bpm_8M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="589223070" Language="SFX">
+					<ShortName>AMB_Birds_Ambi_1.wav</ShortName>
+					<Path>SFX/AMB_Birds_Ambi_1_A18D2972.wem</Path>
+				</File>
+				<File Id="685016809" Language="SFX">
+					<ShortName>Exports\Breaks\IMP_Break_1.wav</ShortName>
+					<Path>SFX/Exports/Breaks/IMP_Break_1_6296B0F9.wem</Path>
+				</File>
+				<File Id="693099604" Language="SFX">
+					<ShortName>STEMS\Normal 1\MUS_Flute_70bpm_7M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 1/MUS_Flute_70bpm_7M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="721968507" Language="SFX">
+					<ShortName>STEMS\Intro\MUS_Flute_70bpm_8M.wav</ShortName>
+					<Path>SFX/STEMS/Intro/MUS_Flute_70bpm_8M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="753444120" Language="SFX">
+					<ShortName>STEMS\Normal 2\MUS_Choir_70bpm_6M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 2/MUS_Choir_70bpm_6M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="753723169" Language="SFX">
+					<ShortName>STEMS\Intro\MUS_Koto_70bpm_8M.wav</ShortName>
+					<Path>SFX/STEMS/Intro/MUS_Koto_70bpm_8M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="790794718" Language="SFX">
+					<ShortName>STEMS\Bridge\MUS_Triangle_70bpm_1M.wav</ShortName>
+					<Path>SFX/STEMS/Bridge/MUS_Triangle_70bpm_1M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="883107314" Language="SFX">
+					<ShortName>AMB_Birds_Ambi_2.wav</ShortName>
+					<Path>SFX/AMB_Birds_Ambi_2_27A21034.wem</Path>
+				</File>
+				<File Id="946389859" Language="SFX">
+					<ShortName>STEMS\Normal 1\MUS_Triangle_70bpm_1M.wav</ShortName>
+					<Path>SFX/STEMS/Normal 1/MUS_Triangle_70bpm_1M_9B96ECC7.wem</Path>
+				</File>
+				<File Id="975510153" Language="SFX">
+					<ShortName>STEMS\Normal 1\MUS_Strings_70bpm_8M_1PU.wav</ShortName>
+					<Path>SFX/STEMS/Normal 1/MUS_Strings_70bpm_8M_1PU_9B96ECC7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

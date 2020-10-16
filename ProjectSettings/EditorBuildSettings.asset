@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/JRoom.unity
+    guid: b2272e0508c9b4ee992183292ff64321
   m_configObjects: {}

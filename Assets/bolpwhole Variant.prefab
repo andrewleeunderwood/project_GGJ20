@@ -13,6 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   original: {fileID: 1617762664578965011}
+  MyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 889d6567678c341f798997458075502e,
+      type: 2}
 --- !u!114 &6642271350961912224
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26,6 +31,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   original: {fileID: 0}
+  MyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 889d6567678c341f798997458075502e,
+      type: 2}
 --- !u!114 &3452650915640951700
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39,6 +49,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   original: {fileID: 0}
+  MyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 889d6567678c341f798997458075502e,
+      type: 2}
 --- !u!114 &3200173978117896542
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52,6 +67,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   original: {fileID: 0}
+  MyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 889d6567678c341f798997458075502e,
+      type: 2}
 --- !u!114 &1152088919203543891
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65,6 +85,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   original: {fileID: 0}
+  MyEvent:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 889d6567678c341f798997458075502e,
+      type: 2}
 --- !u!1001 &3985604920796349349
 PrefabInstance:
   m_ObjectHideFlags: 0

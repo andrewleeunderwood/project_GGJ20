@@ -1,0 +1,39 @@
+Event	ID	Name			Wwise Object Path	Notes
+	384875954	Birds_One			\Default Work Unit\Birds_One	
+	941442534	Break			\Default Work Unit\Break	
+	942597579	Watercreek_Loop			\Default Work Unit\Watercreek_Loop	
+	1022785501	Snap			\Default Work Unit\Snap	
+	1615767906	Music_Main			\Default Work Unit\Music_Main	
+	2136767108	Ending_Gong			\Default Work Unit\Ending_Gong	
+	4071920008	Music_Logo			\Default Work Unit\Music_Logo	
+	4090283673	Environment_Loop			\Default Work Unit\Environment_Loop	
+
+Effect plug-ins	ID	Name	Type				Notes
+	389252396	Next_Room	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	29666668	MUS_Harp_70bpm_26M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 2\MUS_Harp_70bpm_26M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 2\MUS_Harp_70bpm_26M		1178846
+	34520092	IMP_Break_2	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\Exports\Breaks\IMP_Break_2_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Breaks\Breaks\IMP_Break_2		18359
+	97042197	IMP_Snap_1	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\Exports\Snap together\IMP_Snap_1_4434AF12.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Logo\Snap\IMP_Snap_1		1305
+	113787959	MUS_Drone_70bpm_22M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 2\MUS_Drone_70bpm_22M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 2\MUS_Drone_70bpm_22M		1354567
+	133068811	MUS_Harp_70bpm_2M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Bridge\MUS_Harp_70bpm_2M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Bridge\MUS_Harp_70bpm_2M		126989
+	173147514	MUS_Strings_70bpm_26M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 2\MUS_Strings_70bpm_26M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 2\MUS_Strings_70bpm_26M		1298424
+	299600158	ChineseGongHit_BW_24944	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\ChineseGongHit_BW.24944_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\ChineseGongHit_BW_24944		179936
+	321525491	IMP_Snap_2	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\Exports\Snap together\IMP_Snap_2_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Logo\Snap\IMP_Snap_2		2672
+	332462503	MUS_ChineseKit_70bpm_4M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Logo\MUS_ChineseKit_70bpm_4M_D79FB2B7.wem		\Interactive Music Hierarchy\Music\STEMS\Logo\MUS_ChineseKit_70bpm_4M		2715668
+	342459458	MUS_Strings_70bpm_2M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Bridge\MUS_Strings_70bpm_2M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Bridge\MUS_Strings_70bpm_2M		138189
+	360750400	AMB_WaterCreek_Mono_1	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\Exports\Ambiances\AMB_WaterCreek_Mono_1_9B96ECC7.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Ambiances\AMB_WaterCreek_Mono_1		53900
+	365056350	AMB_Environment_Ambi_1	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\AMB_Environment_Ambi_1_D19588E9.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Ambiances\AMB_Environment_Ambi_1		260003
+	466418540	MUS_Triangle_70bpm_1M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 2\MUS_Triangle_70bpm_1M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 2\MUS_Triangle_70bpm_1M		61613
+	494251410	MUS_Harp_70bpm_8M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 1\MUS_Harp_70bpm_8M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 1\MUS_Harp_70bpm_8M		416532
+	589223070	AMB_Birds_Ambi_1	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\AMB_Birds_Ambi_1_A18D2972.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Ambiances\Birds\AMB_Birds_Ambi_1		140391
+	685016809	IMP_Break_1	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\Exports\Breaks\IMP_Break_1_6296B0F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Breaks\Breaks\IMP_Break_1		15466
+	693099604	MUS_Flute_70bpm_7M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 1\MUS_Flute_70bpm_7M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 1\MUS_Flute_70bpm_7M		294276
+	721968507	MUS_Flute_70bpm_8M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Intro\MUS_Flute_70bpm_8M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Intro\MUS_Flute_70bpm_8M		371823
+	753444120	MUS_Choir_70bpm_6M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 2\MUS_Choir_70bpm_6M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 2\MUS_Choir_70bpm_6M		249576
+	753723169	MUS_Koto_70bpm_8M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Intro\MUS_Koto_70bpm_8M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Intro\MUS_Koto_70bpm_8M		356304
+	790794718	MUS_Triangle_70bpm_1M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Bridge\MUS_Triangle_70bpm_1M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Bridge\MUS_Triangle_70bpm_1M		49602
+	883107314	AMB_Birds_Ambi_2	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\AMB_Birds_Ambi_2_27A21034.wem		\Actor-Mixer Hierarchy\Default Work Unit\In Game\Ambiances\Birds\AMB_Birds_Ambi_2		128686
+	946389859	MUS_Triangle_70bpm_1M	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 1\MUS_Triangle_70bpm_1M_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 1\MUS_Triangle_70bpm_1M		53508
+	975510153	MUS_Strings_70bpm_8M_1PU	Y:\Unity Projects\GGJ2020\GGJ2020_WwiseProject\.cache\Mac\SFX\STEMS\Normal 1\MUS_Strings_70bpm_8M_1PU_9B96ECC7.wem		\Interactive Music Hierarchy\Music\Normal\Normal 1\MUS_Strings_70bpm_8M_1PU		471927
+

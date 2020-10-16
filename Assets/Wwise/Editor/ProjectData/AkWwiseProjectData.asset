@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 688a5dc3a136b4341a1b94de85039523, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: fc57274fbf3f7341b900d93d55981a08
+    GuidInternal: 
+    m_lastTime: -8586209994984775808
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c3736e5f1c03914fa778760aa7f1967f
+    GuidInternal: 
+    m_lastTime: -8586209423474775808
+    List:
+    - name: Reverb
+      guid: e88d46e7dd608544a21757054e9be6cd
+      id: 348963605
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      Path: Default Work Unit/Master Audio Bus/Reverb
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: f1e4e6b1a4ce2d45997967da0d8d783c
+    GuidInternal: 
+    m_lastTime: -8586209379934775808
+    List:
+    - name: Main
+      guid: 4705da69f70b404eb74ad26622771635
+      id: 3161908922
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Main
+        ObjectType: 7
+      Path: Default Work Unit/Main
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 095452276776c44db7ae907fa6894bd0
+    GuidInternal: 
+    m_lastTime: -8586209391634775808
+    List:
+    - name: Birds_One
+      guid: 4ecbae65bf9b1f4798b536146bc59fb5
+      id: 384875954
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Birds_One
+        ObjectType: 3
+      Path: Default Work Unit/Birds_One
+      maxAttenuation: 100
+      maxDuration: 26.751905
+      minDuration: 24.942553
+    - name: Break
+      guid: a23acf70da11ab48b4af341231f0c031
+      id: 941442534
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Break
+        ObjectType: 3
+      Path: Default Work Unit/Break
+      maxAttenuation: 0
+      maxDuration: 2.047111
+      minDuration: 1.386619
+    - name: Ending_Gong
+      guid: b09695b7d8016248aa90bbe874cb7555
+      id: 2136767108
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ending_Gong
+        ObjectType: 3
+      Path: Default Work Unit/Ending_Gong
+      maxAttenuation: 0
+      maxDuration: 25.829334
+      minDuration: 25.829334
+    - name: Environment_Loop
+      guid: 83cf530b5380bd44bdc68ae803528c3d
+      id: 4090283673
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Environment_Loop
+        ObjectType: 3
+      Path: Default Work Unit/Environment_Loop
+      maxAttenuation: 100
+      maxDuration: -1
+      minDuration: -1
+    - name: Music_Logo
+      guid: d601c59ec09fab46acc746ca5bbe0a03
+      id: 4071920008
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Logo
+        ObjectType: 3
+      Path: Default Work Unit/Music_Logo
+      maxAttenuation: 0
+      maxDuration: 14.142855
+      minDuration: 14.142855
+    - name: Music_Main
+      guid: e1e612425049a545906488165a57f32d
+      id: 1615767906
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Music_Main
+        ObjectType: 3
+      Path: Default Work Unit/Music_Main
+      maxAttenuation: 0
+      maxDuration: 173.49997
+      minDuration: 163.21426
+    - name: Snap
+      guid: 38f879f50c47184c882f69e7bccd7a1c
+      id: 1022785501
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Snap
+        ObjectType: 3
+      Path: Default Work Unit/Snap
+      maxAttenuation: 0
+      maxDuration: 0.22724
+      minDuration: 0.059429
+    - name: Watercreek_Loop
+      guid: a2ac17bd7cae2246a4acba5d280ca73d
+      id: 942597579
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Watercreek_Loop
+        ObjectType: 3
+      Path: Default Work Unit/Watercreek_Loop
+      maxAttenuation: 100
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: 239c5e7fa5ed104a900a8fa35556a938
+    GuidInternal: 
+    m_lastTime: -8586209994984775808
+    List: []
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: d1235f12ece86941995daad1b9ee24c3
+    GuidInternal: 
+    m_lastTime: -8586209994984775808
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: c08edd5e84975d4ea41a0381bf277b2e
+    GuidInternal: 
+    m_lastTime: -8586209994984775808
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    guid: da66e5fad0fa744dabf16536252a8fa2
+    GuidInternal: 
+    m_lastTime: -8586209994984775808
+    List: []
+  ExpandedItems:
+  - /GGJ2020_WwiseProject
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 

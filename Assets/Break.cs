@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -7,6 +7,7 @@ public class Break : MonoBehaviour
 
     public GameObject brokenVersion;
     public GameObject goalVersion;
+public AK.Wwise.Event MyEvent;
 
 
     // Start on collision with table
@@ -14,6 +15,7 @@ public class Break : MonoBehaviour
     {
         
         Destroy(gameObject);
+MyEvent.Post(gameObject);
         Instantiate(brokenVersion);
         Instantiate(goalVersion);
         //goalVersion.GetComponent<Renderer>().enabled = false;

@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
@@ -7,6 +7,7 @@ using UnityEditor;
 public class OnClicker : MonoBehaviour
 {
     public GameObject original;
+public AK.Wwise.Event MyEvent;
 
     void Start() {
         var fuck = gameObject.name.Substring(2);
@@ -19,6 +20,7 @@ public class OnClicker : MonoBehaviour
         gameObject.transform.position = original.transform.position;
         gameObject.transform.rotation = original.transform.rotation;
         Destroy(gameObject.GetComponent<Rigidbody>());
+MyEvent.Post(gameObject);
     }
 
 }

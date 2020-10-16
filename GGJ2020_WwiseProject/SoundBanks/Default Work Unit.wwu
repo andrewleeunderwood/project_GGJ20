@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B1E6E4F1-CEA4-452D-9979-67DA0D8D783C}" SchemaVersion="94">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{B1E6E4F1-CEA4-452D-9979-67DA0D8D783C}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{69DA0547-0BF7-4E40-B74A-D26622771635}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Environment_Loop" ID="{0B53CF83-8053-44BD-BDC6-8AE803528C3D}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music_Main" ID="{4212E6E1-4950-45A5-9064-88165A57F32D}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Watercreek_Loop" ID="{BD17ACA2-AE7C-4622-A4AC-BA5D280CA73D}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Music_Logo" ID="{9EC501D6-9FC0-46AB-ACC7-46CA5BBE0A03}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Birds_One" ID="{65AECB4E-9BBF-471F-98B5-36146BC59FB5}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Ending_Gong" ID="{B79596B0-01D8-4862-AA90-BBE874CB7555}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Break" ID="{70CF3AA2-11DA-48AB-B4AF-341231F0C031}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Snap" ID="{F579F838-470C-4C18-882F-69E7BCCD7A1C}" WorkUnitID="{27525409-7667-4DC4-B7AE-907FA6894BD0}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

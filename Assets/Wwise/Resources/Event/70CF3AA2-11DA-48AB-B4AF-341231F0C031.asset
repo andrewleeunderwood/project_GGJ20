@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f0c1bd6c28754f1289d8594c10a6b7a, type: 3}
+  m_Name: 70CF3AA2-11DA-48AB-B4AF-341231F0C031
+  m_EditorClassIdentifier: 
+  objectName: Break
+  id: 941442534
+  guid: 70CF3AA2-11DA-48AB-B4AF-341231F0C031
